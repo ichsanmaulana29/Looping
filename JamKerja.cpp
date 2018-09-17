@@ -3,8 +3,8 @@
 /*
 	Program   	: Lama bekerja (Selisih jam kerja)
 	Deskripsi 	: mencari lama jam kerja
-	Penulis     : Ichsan Maulana
-	Tanggal     : 12 Juni 2018
+	Penulis         : Ichsan Maulana
+	Tanggal         : 12 Juni 2018
 */
 main(){
 	//program utama
