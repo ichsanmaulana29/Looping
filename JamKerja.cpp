@@ -1,11 +1,11 @@
+/*
+ Ichsan Maulana
+ Menghitung Lama Jam Kerja 
+*/
+
 #include<stdio.h>
 #include<conio.h>
-/*
-	Program   	: Lama bekerja (Selisih jam kerja)
-	Deskripsi 	: mencari lama jam kerja
-	Penulis         : Ichsan Maulana
-	Tanggal         : 12 Juni 2018
-*/
+
 main(){
 	//program utama
 	//deskripsi variabel
