@@ -1,13 +1,12 @@
-#include<stdio.h>
-#include<conio.h>
-
 /*
-	Program  	: Terkecil dari 2 bilangan
-	Deskripsi 	: mencari nilai terkecil
-	Penulis   	: Ichsan Maulana
-	Tanggal   	: 09 Juni 2017
+ Ichsan Maulana
+ Mencari Nilai Terkecil
+ Dari dua Bilangan
 */
 
+
+#include<stdio.h>
+#include<conio.h>
 
 main()
 {
